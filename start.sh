@@ -1,7 +1,7 @@
 #!/bin/sh
 
 #请修改为自己的UUID
-export UUID=e4c40e74-8352-4bba-a36c-10349334eba4
+export UUID=d355ff28-4c46-426e-86ec-b1328879422a
 
 #请修改为自己设置的伪装站，不要带https://
 export ProxySite=techtanker.com
